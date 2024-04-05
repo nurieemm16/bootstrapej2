@@ -1,3 +1,5 @@
+//Autora: Núria Marzo
+
 function calcularPropina() {
     let total = document.getElementById("total"); // Agafar l'element HTML
     console.log(total);
